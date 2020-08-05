@@ -13,7 +13,7 @@ import com.autodesk.objectRepositoryLib.OrganizationPage;
 
 /**
  * 
- * @author Rajasekar
+ * @author Muthu manickam
  * 
  *         This class is used for Delete An Organization from Organization page
  *

@@ -17,7 +17,7 @@ import com.autodesk.objectRepositoryLib.OrganizationPage;
 
 /**
  * 
- * @author Rajasekar
+ * @author Muthu manickam
  * 
  *         This class is used for Delete Contact from Contact Page
  *

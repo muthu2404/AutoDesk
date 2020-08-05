@@ -15,7 +15,7 @@ import com.autodesk.objectRepositoryLib.OrganizationLookupPage;
 import com.autodesk.objectRepositoryLib.OrganizationPage;
 /**
  * 
- * @author Rajasekar
+ * @author Muthu manickam
  * 
  * This class is used to verify Creation and deletion of contact with Organization
  *
