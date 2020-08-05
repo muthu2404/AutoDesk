@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.tyss_practice.contactTest.DeleteContactTest">
+        <methods>
+          <include name="deleteContactWithOrganization"/>
+          <include name="configAC"/>
+          <include name="confiAs"/>
+          <include name="configBM"/>
+          <include name="configAm"/>
+          <include name="configBS"/>
+          <include name="configBC"/>
+        </methods>
+      </class> <!-- com.tyss_practice.contactTest.DeleteContactTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

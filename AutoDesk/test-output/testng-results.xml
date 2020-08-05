@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26616" started-at="2020-08-05T06:21:50Z" finished-at="2020-08-05T06:22:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26616" started-at="2020-08-05T06:21:50Z" finished-at="2020-08-05T06:22:17Z">
+      <class name="com.autodesk.organiationTest.CreateOrganizationTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.autodesk.organiationTest.CreateOrganizationTest@14acaea5]" name="configBS" is-config="true" duration-ms="10" started-at="2020-08-05T11:51:50Z" finished-at="2020-08-05T11:51:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.autodesk.organiationTest.CreateOrganizationTest@14acaea5]" name="configBC" is-config="true" duration-ms="3586" started-at="2020-08-05T11:51:50Z" finished-at="2020-08-05T11:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.autodesk.organiationTest.CreateOrganizationTest@14acaea5]" name="configBM" is-config="true" duration-ms="6081" started-at="2020-08-05T11:51:54Z" finished-at="2020-08-05T11:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createOrgtest()[pri:0, instance:com.autodesk.organiationTest.CreateOrganizationTest@14acaea5]" name="createOrgtest" duration-ms="15452" started-at="2020-08-05T11:52:00Z" finished-at="2020-08-05T11:52:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrgtest -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.autodesk.organiationTest.CreateOrganizationTest@14acaea5]" name="configAm" is-config="true" duration-ms="1374" started-at="2020-08-05T11:52:16Z" finished-at="2020-08-05T11:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.autodesk.organiationTest.CreateOrganizationTest@14acaea5]" name="configAC" is-config="true" duration-ms="102" started-at="2020-08-05T11:52:17Z" finished-at="2020-08-05T11:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="confiAs()[pri:0, instance:com.autodesk.organiationTest.CreateOrganizationTest@14acaea5]" name="confiAs" is-config="true" duration-ms="0" started-at="2020-08-05T11:52:17Z" finished-at="2020-08-05T11:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiAs -->
+      </class> <!-- com.autodesk.organiationTest.CreateOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
